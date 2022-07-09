@@ -1,2 +1,2 @@
-# smarty-pants-quiz
-A general knowledge quiz in which users get to test their knowledge against each other using an in game scoreboard.
+# Smarty Pants Quiz
+The purpose of this website is to provide a fun interactive general knowledge quiz for users to play. It will include a scoreboard for users to compare scores with each other.
