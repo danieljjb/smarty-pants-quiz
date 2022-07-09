@@ -19,3 +19,11 @@ The purpose of this website is to provide a fun interactive general knowledge qu
 * Provide a website that is easy to navigate.
 * Create a visually appealing website to maintain user attention.
 * Introduce a competitive aspect to the website via a scoreboard.
+
+# Design 
+
+## Colors 
+
+## Icons
+
+## Fonts
