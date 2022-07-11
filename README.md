@@ -25,6 +25,13 @@ The purpose of this website is to provide a fun interactive general knowledge qu
 ## Colors 
 <img src="/docs/color-scheme.png">
 
+I used [Colormind](http://colormind.io/) to generate a suitable color pallete for the website. The combination of black, white, yellow and red really go well together and provide a very attractive design to users.
+
+* #000000 (black)
+* #ffffff (white)
+* #c70039 (red)
+* #ffc300 (yellow)
+
 ## Icons
 
 ## Fonts
