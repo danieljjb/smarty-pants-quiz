@@ -23,6 +23,7 @@ The purpose of this website is to provide a fun interactive general knowledge qu
 # Design 
 
 ## Colors 
+<img src="/docs/color-scheme.png">
 
 ## Icons
 
