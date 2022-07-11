@@ -32,6 +32,4 @@ I used [Colormind](http://colormind.io/) to generate a suitable color pallete fo
 * #c70039 (red)
 * #ffc300 (yellow)
 
-## Icons
-
 ## Fonts
