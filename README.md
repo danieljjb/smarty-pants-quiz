@@ -33,3 +33,4 @@ I used [Colormind](http://colormind.io/) to generate a suitable color pallete fo
 * #ffc300 (yellow)
 
 ## Fonts
+I have chosen to use the font [Roboto](https://fonts.google.com/specimen/Roboto?sort=popularity "Roboto font") which I imported from [Google Fonts](https://fonts.google.com/ "Google Fonts"). I chose this font because it's a very popular font that is easy to read and also helps to incease the attractiveness of the website.
